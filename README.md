@@ -1,6 +1,14 @@
-# car-android-app
-apps for a car with Android system
+# brutforce
+app for braking 4 digits password
 
-relice date December 15 2020.
+relice date december 28 2022
 
-it will content cuple android apps that will be compatyble to use in car.
+it will bruteforce a password containing 4 digits
+
+# How it works 
+
+Hou need to change numbers to your desayer in this line.
+
+int arr[] = { 1, 2, 3, 9 };
+
+Now program will generate all posible cobinations.
